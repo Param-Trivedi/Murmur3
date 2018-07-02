@@ -8,7 +8,7 @@ Please read CHANGELOG.md to follow up on the latest releases.
 Example for 128-bit x64 Architecture
 
 ```
-			Murmur3_x64_128 mHash = new Murmur3_x64_128(0);
+	    Murmur3_x64_128 mHash = new Murmur3_x64_128(0);
             string strHash = "Hello World";
             byte[] finHash = mHash.ComputeHash(Encoding.ASCII.GetBytes(strHash));
 ```
