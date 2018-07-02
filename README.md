@@ -13,6 +13,6 @@ Please read CHANGELOG.md to follow up on the latest releases.
             byte[] finHash = mHash.ComputeHash(Encoding.ASCII.GetBytes(strHash));
 ```
 ## Output
-```
-https://user-images.githubusercontent.com/10596504/42173045-ccb4998c-7deb-11e8-8c04-3d71e4e7d9f6.PNG
-```
+![output_128bit_x64](https://user-images.githubusercontent.com/10596504/42173045-ccb4998c-7deb-11e8-8c04-3d71e4e7d9f6.PNG)
+
+
