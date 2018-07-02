@@ -1,12 +1,16 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Murmur3.Testing
 {
     class Program
     {
-        static void Main(string[] args)
+
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hi");
+
         }
     }
 }

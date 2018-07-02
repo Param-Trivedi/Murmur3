@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.0",
+    "signature": "213ba32c64926057855d697033e51dac3c73d48a"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.0": {
+      "Murmur3_x64/1.0.0": {
+        "dependencies": {
+          "xunit.runner.console": "2.3.1"
+        },
+        "runtime": {
+          "Murmur3_x64.dll": {}
+        }
+      },
+      "xunit.runner.console/2.3.1": {}
+    }
+  },
+  "libraries": {
+    "Murmur3_x64/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xunit.runner.console/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bvkd5z72ioJUsLzXuajcXlKtAp/2d7BqdfnluNZEMQbqTEu2xvxKRCNj+OrUKjsrDREwjsYqz6c8pd+/xhPWFg==",
+      "path": "xunit.runner.console/2.3.1",
+      "hashPath": "xunit.runner.console.2.3.1.nupkg.sha512"
+    }
+  }
+}

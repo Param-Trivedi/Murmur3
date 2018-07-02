@@ -13,7 +13,7 @@ namespace Murmur3_x64
             return hex.ToString();
         }
 
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Murmur3_x64_128 mHash = new Murmur3_x64_128(0);
             string strHash = "Hello World";
