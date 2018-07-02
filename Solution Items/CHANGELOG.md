@@ -18,8 +18,9 @@ The format is based on Keep a [Changelog](http://keepachangelog.com/en/1.0.0/) a
 ## [1.0.0] - 2018-07-02
 
 ### Added
-- Added support for 128 - bit x64 Architecture
-
+ - Added support for 128 - bit x64 Architecture
+ - Testing project
+ 
 ### Changed
  
 

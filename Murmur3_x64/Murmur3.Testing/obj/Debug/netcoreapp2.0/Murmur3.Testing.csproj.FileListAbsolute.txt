@@ -1,0 +1,14 @@
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.deps.json
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.runtimeconfig.json
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.runtimeconfig.dev.json
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3_x64.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3_x64.pdb
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.csprojAssemblyReference.cache
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.csproj.CoreCompileInputs.cache
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.AssemblyInfoInputs.cache
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.AssemblyInfo.cs
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.csproj.CopyComplete
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.pdb
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.pdb

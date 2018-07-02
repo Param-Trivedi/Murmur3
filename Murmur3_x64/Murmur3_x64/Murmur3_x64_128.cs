@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Murmur3_x64
 {
-    class Murmur3_x64_128
+    public class Murmur3_x64_128
     {
 
         public static ulong READ_SIZE = 16;

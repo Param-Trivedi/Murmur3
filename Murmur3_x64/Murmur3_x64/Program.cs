@@ -5,11 +5,11 @@ namespace Murmur3_x64
 {
     class Program
     {
-        public static string ByteArrayToString(byte[] ba)
+        public static string ByteArrayToString(byte[] finHash)
         {
-            StringBuilder hex = new StringBuilder(ba.Length * 2);
-            foreach (byte b in ba)
-                hex.AppendFormat("{0:x2} ", b);
+            StringBuilder hex = new StringBuilder(finHash.Length * 2);
+            foreach (byte temphash in finHash)
+                hex.AppendFormat("{0:x2} ", temphash);
             return hex.ToString();
         }
 
