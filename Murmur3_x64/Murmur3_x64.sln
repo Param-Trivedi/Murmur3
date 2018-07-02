@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\Solution Items\.gitattributes = ..\Solution Items\.gitattributes
 		..\Solution Items\.gitignore = ..\Solution Items\.gitignore
 		..\Solution Items\CHANGELOG.md = ..\Solution Items\CHANGELOG.md
-		..\Solution Items\README.md = ..\Solution Items\README.md
+		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
 Global
