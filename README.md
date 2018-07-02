@@ -1,6 +1,6 @@
 # Murmur3
 Murmur3 Hashing Algorithm
-This library is based on the Implementation of [Murmur3 Algorithm](https://github.com/aappleby/smhasher/wiki/MurmurHash3) Hashing alogrithm created by Austin Appleby 
+This library is based on the Implementation of [Murmur3 Algorithm](https://github.com/aappleby/smhasher/wiki/MurmurHash3) Hashing alogrithm created by Austin Appleby. This project has taken references from other available implementation of the Algorithm.
 
 At this point the library supports 128-bit x64 Architecture format.
 Please read CHANGELOG.md to follow up on the latest releases.
