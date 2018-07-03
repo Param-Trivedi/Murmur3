@@ -5,6 +5,18 @@ This library is based on the Implementation of [Murmur3 Algorithm](https://githu
 At this point the library supports 128-bit x64 Architecture format.
 Please read CHANGELOG.md to follow up on the latest releases.
 
+# Docker setup
+
+#### To build the docker image
+`
+  .\Dockerfile-ps.ps1 -Build  
+`
+#### To run the docker image
+`
+  .\Dockerfile-ps.ps1 -Run  
+`
+
+
 # Example for 128-bit x64 Architecture
 
 ```
