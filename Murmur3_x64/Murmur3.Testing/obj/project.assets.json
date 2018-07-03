@@ -1686,9 +1686,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "Microsoft.NET.Test.Sdk": "15.7.2",
-          "Microsoft.NETCore.App": "2.0.0",
-          "xunit.runner.console": "2.3.1"
+          "Microsoft.NETCore.App": "2.0.0"
         },
         "compile": {
           "bin/placeholder/Murmur3_x64.dll": {}

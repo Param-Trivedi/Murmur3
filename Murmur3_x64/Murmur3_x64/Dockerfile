@@ -10,8 +10,8 @@ ENTRYPOINT ["dotnet", "Murmur3_x64.dll"]
 
 
 ## Standard docker file (Image size 2GB)
-FROM microsoft/dotnet:2.0-sdk
-COPY . ./Murmur3_x64
-WORKDIR /Murmur3_x64/
-RUN dotnet build -c Release
-ENTRYPOINT ["dotnet", "run", "-c", "Release", "--no-build"]
+#FROM microsoft/dotnet:2.0-sdk
+#COPY . ./Murmur3_x64
+#WORKDIR /Murmur3_x64/
+#RUN dotnet build -c Release
+#ENTRYPOINT ["dotnet", "run", "-c", "Release", "--no-build"]
