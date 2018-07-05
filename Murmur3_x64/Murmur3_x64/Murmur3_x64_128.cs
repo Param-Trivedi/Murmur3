@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace Murmur3_128bit
 {
@@ -112,7 +111,7 @@ namespace Murmur3_128bit
             ulong k2 = 0;
             length += remaining;
 
-            // little endian (x86) processing
+            // little endian (x64) processing
             switch (remaining)
             {
                 case 15:

@@ -9,7 +9,7 @@ namespace Murmur3.Testing
 
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hi");
+            Console.WriteLine("Murmur3 Testing Project");
 
         }
     }

@@ -30,7 +30,7 @@ Please read CHANGELOG.md to follow up on the latest releases.
 
 # Future Notes
 #### Support for 32-bit x64 and x86 architecture in develoment
-#### Support for 128-bit x86 architecture in development
+#### Support for 128-bit x86 architecture in development (Done -> Note : I dont have x86 Architecture platform to test upon)
 #### Avalance Test verification in development
 
 

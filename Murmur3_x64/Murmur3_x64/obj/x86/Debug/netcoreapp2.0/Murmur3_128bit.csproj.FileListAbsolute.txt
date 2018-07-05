@@ -1,0 +1,11 @@
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\bin\x86\Debug\netcoreapp2.0\Murmur3_128bit.deps.json
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\bin\x86\Debug\netcoreapp2.0\Murmur3_128bit.runtimeconfig.json
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\bin\x86\Debug\netcoreapp2.0\Murmur3_128bit.runtimeconfig.dev.json
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\bin\x86\Debug\netcoreapp2.0\Murmur3_128bit.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\bin\x86\Debug\netcoreapp2.0\Murmur3_128bit.pdb
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\obj\x86\Debug\netcoreapp2.0\Murmur3_128bit.csproj.CoreCompileInputs.cache
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\obj\x86\Debug\netcoreapp2.0\Murmur3_128bit.AssemblyInfoInputs.cache
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\obj\x86\Debug\netcoreapp2.0\Murmur3_128bit.AssemblyInfo.cs
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\obj\x86\Debug\netcoreapp2.0\Murmur3_128bit.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\obj\x86\Debug\netcoreapp2.0\Murmur3_128bit.pdb
+C:\Development\Murmur3\Murmur3_x64\Murmur3_x64\obj\x86\Debug\netcoreapp2.0\Murmur3_128bit.csprojAssemblyReference.cache

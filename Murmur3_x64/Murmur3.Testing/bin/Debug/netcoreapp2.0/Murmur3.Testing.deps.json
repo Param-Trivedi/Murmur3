@@ -22,7 +22,10 @@
       },
       "Microsoft.CodeCoverage/1.0.3": {
         "runtime": {
-          "lib/netstandard1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {}
+          "lib/netstandard1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.26228.0"
+          }
         }
       },
       "Microsoft.CSharp/4.0.1": {
@@ -57,7 +60,10 @@
           "System.Runtime.InteropServices.RuntimeInformation": "4.0.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {}
+          "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
         }
       },
       "Microsoft.Extensions.DependencyModel/1.0.3": {
@@ -69,7 +75,10 @@
           "System.Linq": "4.1.0"
         },
         "runtime": {
-          "lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll": {}
+          "lib/netstandard1.6/Microsoft.Extensions.DependencyModel.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
         }
       },
       "Microsoft.NET.Test.Sdk/15.7.2": {
@@ -96,9 +105,18 @@
           "System.Xml.XPath.XmlDocument": "4.0.1"
         },
         "runtime": {
-          "lib/netstandard1.5/Microsoft.TestPlatform.CoreUtilities.dll": {},
-          "lib/netstandard1.5/Microsoft.TestPlatform.PlatformAbstractions.dll": {},
-          "lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll": {}
+          "lib/netstandard1.5/Microsoft.TestPlatform.CoreUtilities.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          },
+          "lib/netstandard1.5/Microsoft.TestPlatform.PlatformAbstractions.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          },
+          "lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          }
         },
         "resources": {
           "lib/netstandard1.5/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll": {
@@ -188,10 +206,22 @@
           "Newtonsoft.Json": "9.0.1"
         },
         "runtime": {
-          "lib/netstandard1.5/Microsoft.TestPlatform.CommunicationUtilities.dll": {},
-          "lib/netstandard1.5/Microsoft.TestPlatform.CrossPlatEngine.dll": {},
-          "lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.Common.dll": {},
-          "lib/netstandard1.5/testhost.dll": {}
+          "lib/netstandard1.5/Microsoft.TestPlatform.CommunicationUtilities.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          },
+          "lib/netstandard1.5/Microsoft.TestPlatform.CrossPlatEngine.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          },
+          "lib/netstandard1.5/Microsoft.VisualStudio.TestPlatform.Common.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          },
+          "lib/netstandard1.5/testhost.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.0.0"
+          }
         },
         "resources": {
           "lib/netstandard1.5/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll": {
@@ -366,7 +396,10 @@
           "System.Xml.XDocument": "4.0.11"
         },
         "runtime": {
-          "lib/netstandard1.0/Newtonsoft.Json.dll": {}
+          "lib/netstandard1.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.1.19813"
+          }
         }
       },
       "runtime.native.System/4.0.0": {
@@ -988,7 +1021,10 @@
           "System.Xml.XmlDocument": "4.0.1"
         },
         "runtime": {
-          "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
+          "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "1.0.24212.1"
+          }
         }
       },
       "xunit/2.3.1": {
@@ -1000,13 +1036,19 @@
       },
       "xunit.abstractions/2.0.1": {
         "runtime": {
-          "lib/netstandard1.0/xunit.abstractions.dll": {}
+          "lib/netstandard1.0/xunit.abstractions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
         }
       },
       "xunit.analyzers/0.9.0": {},
       "xunit.assert/2.3.1": {
         "runtime": {
-          "lib/netstandard1.1/xunit.assert.dll": {}
+          "lib/netstandard1.1/xunit.assert.dll": {
+            "assemblyVersion": "2.3.1.3858",
+            "fileVersion": "2.3.1.3858"
+          }
         }
       },
       "xunit.core/2.3.1": {
@@ -1020,7 +1062,10 @@
           "xunit.abstractions": "2.0.1"
         },
         "runtime": {
-          "lib/netstandard1.1/xunit.core.dll": {}
+          "lib/netstandard1.1/xunit.core.dll": {
+            "assemblyVersion": "2.3.1.3858",
+            "fileVersion": "2.3.1.3858"
+          }
         }
       },
       "xunit.extensibility.execution/2.3.1": {
@@ -1028,7 +1073,10 @@
           "xunit.extensibility.core": "2.3.1"
         },
         "runtime": {
-          "lib/netstandard1.1/xunit.execution.dotnet.dll": {}
+          "lib/netstandard1.1/xunit.execution.dotnet.dll": {
+            "assemblyVersion": "2.3.1.3858",
+            "fileVersion": "2.3.1.3858"
+          }
         }
       },
       "xunit.runner.console/2.3.1": {},
@@ -1044,7 +1092,132 @@
       },
       "Microsoft.VisualStudio.Web/15.0.0.0": {
         "runtime": {
-          "Microsoft.VisualStudio.Web.dll": {}
+          "Microsoft.VisualStudio.Web.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2018"
+          }
+        }
+      },
+      "Microsoft.Web.Design.Client/15.0.0.0": {
+        "runtime": {
+          "Microsoft.Web.Design.Client.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "14.0.25616.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Web.HTML/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Web.HTML.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2018"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.DataDesign.Interfaces/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.DataDesign.Interfaces.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27604.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Design/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Design.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.1"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Web.Host.Shared/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Web.Host.Shared.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2018"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.DataDesign.Common/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.DataDesign.Common.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27604.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Data.Interop/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Data.Interop.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27604.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.ServerExplorer/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.ServerExplorer.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27604.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2035"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Designer.Interfaces/1.0.5000.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Designer.Interfaces.dll": {
+            "assemblyVersion": "1.0.5000.0",
+            "fileVersion": "1.1.4322.573"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.DataTools.Interop/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.DataTools.Interop.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27604.0"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.ImageCatalog/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.ImageCatalog.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2035"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Imaging/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Imaging.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2035"
+          }
+        },
+        "resources": {
+          "en/Microsoft.VisualStudio.Imaging.resources.dll": {
+            "locale": "en"
+          }
+        }
+      },
+      "Microsoft.VisualStudio.Utilities/15.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.Utilities.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.27703.2035"
+          }
+        },
+        "resources": {
+          "en/Microsoft.VisualStudio.Utilities.resources.dll": {
+            "locale": "en"
+          }
         }
       }
     }
@@ -1607,6 +1780,76 @@
       "sha512": ""
     },
     "Microsoft.VisualStudio.Web/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.Design.Client/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Web.HTML/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.DataDesign.Interfaces/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Design/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Web.Host.Shared/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.DataDesign.Common/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Data.Interop/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.ServerExplorer/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Designer.Interfaces/1.0.5000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.DataTools.Interop/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.ImageCatalog/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Imaging/15.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.Utilities/15.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

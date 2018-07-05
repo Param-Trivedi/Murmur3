@@ -665,7 +665,7 @@
   },
   "packageFolders": {
     "C:\\Users\\Intern\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -677,7 +677,7 @@
       "outputPath": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Intern\\AppData\\Roaming\\NuGet\\NuGet.Config",

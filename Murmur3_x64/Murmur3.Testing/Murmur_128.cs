@@ -9,14 +9,15 @@ namespace Murmur3.Testing
 {
     public class Murmur_128
     {
-        Murmur3_x64_128 mHash = null;
+        Murmur3_x64_128 mHash64 = null;
+        Murmur3_x86_128 mHash86 = null;
         string strHash = "Hello World";
 
         [Fact(DisplayName = "Test_128(x64) Seed => 0")]
         public void Test_Murmur3_128_x64_0()
         {
-            mHash = new Murmur3_x64_128(0);
-            byte[] finHash = mHash.ComputeHash(Encoding.ASCII.GetBytes(strHash));
+            mHash64 = new Murmur3_x64_128(0);
+            byte[] finHash = mHash64.ComputeHash(Encoding.ASCII.GetBytes(strHash));
 
             //Covert bytes to Hex
             string finHexHash = ByteArrayToString(finHash);
@@ -25,11 +26,27 @@ namespace Murmur3.Testing
 
         }
 
+        // Need x86 Architecture to give the answer correctly
+        /*
+        [Fact(DisplayName = "Test_128(x86) Seed => 0")]
+        public void Test_Murmur3_128_x86_0()
+        {
+            mHash86 = new Murmur3_x86_128(0);
+            byte[] finHash = mHash86.ComputeHash(Encoding.ASCII.GetBytes(strHash));
+
+            //Covert bytes to Hex
+            string finHexHash = ByteArrayToString(finHash);
+
+            Assert.Equal("6a fa ca 92 65 3c 65 59 ", finHexHash);
+
+        }
+        */
+
         [Fact(DisplayName = "Test_128(x64) Seed => 123")]
         public void Test_Murmur3_128_x64_123()
         {
-            mHash = new Murmur3_x64_128(123);
-            byte[] finHash = mHash.ComputeHash(Encoding.ASCII.GetBytes(strHash));
+            mHash64 = new Murmur3_x64_128(123);
+            byte[] finHash = mHash64.ComputeHash(Encoding.ASCII.GetBytes(strHash));
 
             //Covert bytes to Hex
             string finHexHash = ByteArrayToString(finHash);
