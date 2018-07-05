@@ -30,7 +30,7 @@ namespace Murmur3_128bit
             string finHexHash86 = ByteArrayToString(finHash86);
 
             //Output the Result on the screen
-            Console.WriteLine("The Murmur3 Hash of 128-bit for string: \n' " + strHash64 + " '\nFor x64 Architecture : " + finHexHash64 + "\nFor x86 Architecture : x86 Architectur needed" + finHexHash86);
+            Console.WriteLine("The Murmur3 Hash of 128-bit for string: \n' " + strHash64 + " '\nFor x64 Architecture : " + finHexHash64 + "\nFor x86 Architecture : x86 Architectur needed");
 
 
         }
