@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Murmur3_x64", "Murmur3_x64\Murmur3_x64.csproj", "{0520C4EF-8D75-44B4-B35E-1F1A5C4B0BCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Murmur3_128bit", "Murmur3_x64\Murmur3_128bit.csproj", "{0520C4EF-8D75-44B4-B35E-1F1A5C4B0BCF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA89EA83-FC8C-41AC-8752-FEC59F3B2338}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Murmur3.Testing", "Murmur3.Testing\Murmur3.Testing.csproj", "{FB109A01-C5FF-417B-B694-4D755717B368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Murmur3.Testing", "Murmur3.Testing\Murmur3.Testing.csproj", "{FB109A01-C5FF-417B-B694-4D755717B368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

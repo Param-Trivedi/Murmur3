@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Murmur3_x64
+namespace Murmur3_128bit
 {
     public static class HelperHash
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Murmur3_x64;
+using Murmur3_128bit;
 using Xunit;
 
 

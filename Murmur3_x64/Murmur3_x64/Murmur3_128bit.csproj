@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <StartupObject>Murmur3_x64.Program</StartupObject>
+    <StartupObject>Murmur3_128bit.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

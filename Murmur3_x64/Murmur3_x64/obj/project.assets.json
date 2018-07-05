@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_x64.csproj",
-      "projectName": "Murmur3_x64",
-      "projectPath": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_x64.csproj",
+      "projectUniqueName": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_128bit.csproj",
+      "projectName": "Murmur3_128bit",
+      "projectPath": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_128bit.csproj",
       "packagesPath": "C:\\Users\\Intern\\.nuget\\packages\\",
       "outputPath": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\obj\\",
       "projectStyle": "PackageReference",

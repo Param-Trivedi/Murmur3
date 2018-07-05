@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Murmur3_x64/1.0.0": {
+      "Murmur3_128bit/1.0.0": {
         "runtime": {
-          "Murmur3_x64.dll": {}
+          "Murmur3_128bit.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Murmur3_x64/1.0.0": {
+    "Murmur3_128bit/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

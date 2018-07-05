@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Murmur3_x64\Murmur3_x64.csproj" />
+    <ProjectReference Include="..\Murmur3_x64\Murmur3_128bit.csproj" />
   </ItemGroup>
 
   <ItemGroup>

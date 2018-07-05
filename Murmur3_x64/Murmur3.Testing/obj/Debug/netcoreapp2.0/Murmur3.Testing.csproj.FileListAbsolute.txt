@@ -2,8 +2,6 @@ C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmu
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.runtimeconfig.json
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.runtimeconfig.dev.json
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3.Testing.dll
-C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3_x64.dll
-C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3_x64.pdb
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.csprojAssemblyReference.cache
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.csproj.CoreCompileInputs.cache
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\obj\Debug\netcoreapp2.0\Murmur3.Testing.AssemblyInfoInputs.cache
@@ -32,3 +30,5 @@ C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\en\Mi
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3_128bit.dll
+C:\Development\Murmur3\Murmur3_x64\Murmur3.Testing\bin\Debug\netcoreapp2.0\Murmur3_128bit.pdb

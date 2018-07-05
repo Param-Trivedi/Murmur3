@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Murmur3_x64
+namespace Murmur3_128bit
 {
     class Program
     {

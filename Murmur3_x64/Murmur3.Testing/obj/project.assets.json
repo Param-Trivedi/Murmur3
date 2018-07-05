@@ -1682,17 +1682,17 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "Murmur3_x64/1.0.0": {
+      "Murmur3_128bit/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.NETCore.App": "2.0.0"
         },
         "compile": {
-          "bin/placeholder/Murmur3_x64.dll": {}
+          "bin/placeholder/Murmur3_128bit.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Murmur3_x64.dll": {}
+          "bin/placeholder/Murmur3_128bit.dll": {}
         }
       }
     }
@@ -5758,17 +5758,17 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Murmur3_x64/1.0.0": {
+    "Murmur3_128bit/1.0.0": {
       "type": "project",
-      "path": "../Murmur3_x64/Murmur3_x64.csproj",
-      "msbuildProject": "../Murmur3_x64/Murmur3_x64.csproj"
+      "path": "../Murmur3_x64/Murmur3_128bit.csproj",
+      "msbuildProject": "../Murmur3_x64/Murmur3_128bit.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.NET.Test.Sdk >= 15.7.2",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Murmur3_x64 >= 1.0.0",
+      "Murmur3_128bit >= 1.0.0",
       "xunit >= 2.3.1",
       "xunit.analyzers >= 0.9.0",
       "xunit.runner.console >= 2.3.1",
@@ -5805,8 +5805,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_x64.csproj": {
-              "projectPath": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_x64.csproj"
+            "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_128bit.csproj": {
+              "projectPath": "C:\\Development\\Murmur3\\Murmur3_x64\\Murmur3_x64\\Murmur3_128bit.csproj"
             }
           }
         }

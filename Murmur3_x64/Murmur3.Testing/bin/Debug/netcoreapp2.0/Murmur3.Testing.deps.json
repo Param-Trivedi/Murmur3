@@ -9,7 +9,7 @@
       "Murmur3.Testing/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.7.2",
-          "Murmur3_x64": "1.0.0",
+          "Murmur3_128bit": "1.0.0",
           "xunit": "2.3.1",
           "xunit.analyzers": "0.9.0",
           "xunit.runner.console": "2.3.1",
@@ -1037,13 +1037,9 @@
           "Microsoft.NET.Test.Sdk": "15.7.2"
         }
       },
-      "Murmur3_x64/1.0.0": {
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "15.7.2",
-          "xunit.runner.console": "2.3.1"
-        },
+      "Murmur3_128bit/1.0.0": {
         "runtime": {
-          "Murmur3_x64.dll": {}
+          "Murmur3_128bit.dll": {}
         }
       },
       "Microsoft.VisualStudio.Web/15.0.0.0": {
@@ -1605,7 +1601,7 @@
       "path": "xunit.runner.visualstudio/2.3.1",
       "hashPath": "xunit.runner.visualstudio.2.3.1.nupkg.sha512"
     },
-    "Murmur3_x64/1.0.0": {
+    "Murmur3_128bit/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
